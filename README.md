@@ -1,16 +1,20 @@
 # 🎬 Movies Stream Ticket 🎟️
 
-A simple React project for displaying movie genres and media services.  
-🚀 Live Demo: [https://leafy-khapse-a477ce.netlify.app](https://leafy-khapse-a477ce.netlify.app)
+A React web app for browsing movie genres and streaming services.
 
-## 💡 Features
-- Media service icons (Netflix, Hulu, etc.)
-- Movie genres list
-- Responsive sidebar layout
+🚀 **Live Demo**: [https://leafy-khapse-a477ce.netlify.app](https://leafy-khapse-a477ce.netlify.app)
 
-## 🛠️ Getting Started
+---
 
-To run the project locally:
+## ⚙️ Features
+- Display of media services (e.g., Netflix, Hulu)
+- Genre-based movie listing
+- Clean sidebar layout
+- Responsive design
+
+---
+
+## 🚀 Getting Started
 
 ```bash
 npm install
