@@ -2,7 +2,7 @@
 
 A React web app for browsing movie genres and streaming services.
 
-🚀 **Live Demo**: [https://leafy-khapse-a477ce.netlify.app](https://leafy-khapse-a477ce.netlify.app)
+🚀 **Demo**: [https://leafy-khapse-a477ce.netlify.app](https://leafy-khapse-a477ce.netlify.app)
 
 ---
 
